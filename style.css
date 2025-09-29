@@ -1,0 +1,27 @@
+body { background-color: antiquewhite;
+       text-align: center;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#sum {background-color: rgb(139, 121, 61);
+color: rgb(255, 255, 255);
+border-radius: 8px;
+padding: 10px 20px;}
+
+
+#rest {background-color: rgb(119, 103, 57);
+color: azure;
+border-radius: 8px;
+padding: 10px 20px;}
+
+
+#mult {background-color: rgb(99, 82, 47);
+color: azure;
+border-radius: 8px;
+padding: 10px 20px;}
+
+
+#div {background-color: rgb(114, 83, 16);
+color: azure;
+border-radius: 8px;
+padding: 10px 20px;}
